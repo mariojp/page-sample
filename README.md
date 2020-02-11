@@ -1,9 +1,15 @@
 # Criando sua pagina no github
 
-1. Crie um repositorio.
+1. Clieque em ![New](/new.png)
+
+2. Crie um repositorio. 
   + Escolha um nome
   + Marque para inicializar o repositorio.
-2. Clique em Settings
-3. Procure por GitHub Pages
+![Repository](/repository.png)
+  
+3. Clique em  ![Settings](/settings.png)
+
+4. Procure por GitHub Pages
   + Opção Source
     Selecione master branch
+![GitHub Pages](/githubpages.png)
