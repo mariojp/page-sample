@@ -4,6 +4,8 @@
 
 2. Crie um repositorio. 
   + Escolha um nome
+    + Se nome do repositorio for nomedousuario.github.io vai ser gerado um endereço http://nomedousuario.github.io
+    + Se for qualque outro nome do repositorio vai ser gerado um endereço http://nomedousuario.github.io/nomedorepositorio
   + Marque para inicializar o repositorio.
 ![Repository](/repository.png)
 
@@ -27,5 +29,6 @@
 
 4. Procure por GitHub Pages
   + Opção Source
-    Selecione master branch
+    + Selecione master branch pe o index estiver na raiz caso o nome do seu repositorio nomedousuario.github.io essa opção é obrigatoria
+    
 ![GitHub Pages](/githubpages.png)
