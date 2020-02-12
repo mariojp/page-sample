@@ -1,6 +1,6 @@
 # Criando sua pagina no github
 
-1. Clieque em ![New](/new.png)
+1. Clique em ![New](/new.png)
 
 2. Crie um repositorio. 
   + Escolha um nome
